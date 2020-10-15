@@ -1,4 +1,4 @@
-kmannnish/README.md
+
 ### Hi there, I'm Manish  👋
 
 ## I'm a Student, Developer, and Teacher!!
@@ -11,4 +11,8 @@ kmannnish/README.md
 
 ### Spotify Playing 🎧
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Manish Spotify Playing" width="350" />
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31nqfy2zamvjybjxodo632cadgsi)
+
+
+
+
