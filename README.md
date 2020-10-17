@@ -1,9 +1,8 @@
-
 ### Hi there, I'm Manish  👋
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become a V S Code SuperHero!][course]!
+- 🔭 I just launched my first course: [Become a VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
