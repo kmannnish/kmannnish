@@ -1,4 +1,4 @@
-### Hi there, I'm Manish  👋
+### Hi there, I'm Manish Kumawat  👋
 
 ## I'm a Student, Developer, and Teacher!!
 
